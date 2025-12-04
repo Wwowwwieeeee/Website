@@ -20,7 +20,7 @@ const Navigation = () => {
           {/* Logo */}
           <a href="#home" className="flex items-center gap-3">
             <img
-              src="/assets/logo.png"
+              src="uploads/assets/logo.png"
               alt="Alana Grace Counselling"
               className="h-12 w-12 object-contain"
             />
